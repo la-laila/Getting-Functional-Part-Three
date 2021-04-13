@@ -13,7 +13,7 @@ should be a string and NOT the friends array.
 
 function friendsOfCustomer(name){
   //CODE BELOW HERE
-
+var friendsOfCustomer(laila)
 
 
   //CODE ABOVE HERE
@@ -31,7 +31,7 @@ function.
 
 function contactInfo(name){
   //CODE BELOW HERE
-
+var contactInfo (kaile)
 
 
   //CODE ABOVE HERE
